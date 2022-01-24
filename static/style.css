@@ -1,0 +1,55 @@
+.what_BCP{ background:#fefaed; padding: 40px 0; position: relative;}
+.what_BCP p{ font-size: 20px; font-weight: 300; color: #000; line-height: 30px;}
+.what_BCP h3{ font-size: 36px; font-weight: 700; color: #000; line-height: 30px; padding: 20px 0; text-transform: uppercase;}
+.what_BCP h3::before{ content: ''; width: 100px; height: 4px; position: absolute; display: inline-block; top: 100px;  }
+.BCP_btn{ background:#ffc600; padding: 10px 50px; border-radius: 5px; margin-top: 25px; display: inline-block; color: #000; font-size: 20px; font-weight: 500; }
+.BCP_btn:hover{ text-decoration: underline; color: #000;}
+.what_BCP .tile{ background: #fff; width: 240px; height: 240px; margin: 0 20px; box-shadow:0 0px 25px 0 rgb(0 0 0 / 10%); border-radius: 6px; padding: 40px 25px;}
+.what_BCP .tile img{ max-width: 100px; margin: 0 auto; text-align: center; display: block;}
+.what_BCP .tile h5{font-size: 16px; font-weight: 500; color: #000; line-height: 30px; padding: 10px 0; text-align: center;}
+.what_BCP h4{ margin-top: 30px; color: #000; font-weight: 900;}
+
+
+
+
+
+.program_BCP h3{ font-size: 36px; font-weight: 700; color: #000; line-height: 30px; padding: 20px 0; text-transform: uppercase;}
+.program_BCP h3::before{ content: ''; width: 100px; height: 4px; position: absolute; display: inline-block; top: 100px;  }
+.program_BCP .tile{background: #ebf4fb; padding: 20px; width: 350px; margin: 0 15px;}
+.program_BCP .tile p{color: #000;}
+.program_BCP .tile h4{color: #000; } 
+.program_BCP .tile h6 b{color: #000; } 
+.program_BCP .tile ul li{color: #000;}
+.nw_cont h4{ margin-bottom: 20px;}
+.program_BCP .tile img{  max-height: 100px; margin: 0 5px 20px; text-align: center; display: block; }
+.program_BCP .tile ul li{ list-style: circle; font-size: 14px;}
+.program_BCP .tile .enquire{background: #ffc600; padding: 10px 20px; display: block; text-align: center; margin: 0 auto; color: #000; font-weight: 700; font-size: 14px; border: none; border-radius: 4px;}
+.program_BCP .tile .enquire:hover{ text-decoration: underline; color: #000; }
+
+
+.program_who h3{ font-size: 36px; font-weight: 700; color: #000; line-height: 30px; padding: 20px 0; text-transform: uppercase;}
+.program_who h3::before{ content: ''; width: 100px; height: 4px; background: #ffc600; position: absolute; display: inline-block; top: 100px;  }
+
+
+
+#about_us{
+    color: white;
+    background-color:black;
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom:3rem!important ;
+    padding-top: 3rem!important;
+}
+section{
+    display: block;
+}
+
+.form-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+  }
+  
